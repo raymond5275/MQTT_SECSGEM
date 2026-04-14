@@ -1,0 +1,17 @@
+C:\Projects\MES_Demo\MesMiddleware\obj\Debug\net10.0\MesMiddleware.csproj.AssemblyReference.cache
+C:\Projects\MES_Demo\MesMiddleware\obj\Debug\net10.0\MesMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MES_Demo\MesMiddleware\obj\Debug\net10.0\MesMiddleware.AssemblyInfoInputs.cache
+C:\Projects\MES_Demo\MesMiddleware\obj\Debug\net10.0\MesMiddleware.AssemblyInfo.cs
+C:\Projects\MES_Demo\MesMiddleware\obj\Debug\net10.0\MesMiddleware.csproj.CoreCompileInputs.cache
+C:\Projects\MES_Demo\MesMiddleware\bin\Debug\net10.0\MesMiddleware.exe
+C:\Projects\MES_Demo\MesMiddleware\bin\Debug\net10.0\MesMiddleware.deps.json
+C:\Projects\MES_Demo\MesMiddleware\bin\Debug\net10.0\MesMiddleware.runtimeconfig.json
+C:\Projects\MES_Demo\MesMiddleware\bin\Debug\net10.0\MesMiddleware.dll
+C:\Projects\MES_Demo\MesMiddleware\bin\Debug\net10.0\MesMiddleware.pdb
+C:\Projects\MES_Demo\MesMiddleware\bin\Debug\net10.0\MQTTnet.dll
+C:\Projects\MES_Demo\MesMiddleware\obj\Debug\net10.0\MesMiddl.750C5843.Up2Date
+C:\Projects\MES_Demo\MesMiddleware\obj\Debug\net10.0\MesMiddleware.dll
+C:\Projects\MES_Demo\MesMiddleware\obj\Debug\net10.0\refint\MesMiddleware.dll
+C:\Projects\MES_Demo\MesMiddleware\obj\Debug\net10.0\MesMiddleware.pdb
+C:\Projects\MES_Demo\MesMiddleware\obj\Debug\net10.0\MesMiddleware.genruntimeconfig.cache
+C:\Projects\MES_Demo\MesMiddleware\obj\Debug\net10.0\ref\MesMiddleware.dll
